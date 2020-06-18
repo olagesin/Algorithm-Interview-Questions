@@ -1,4 +1,4 @@
-#Problem: Create a fucntion that finds the sum pairs of two integers in a list
+# Problem: Create a function that finds the sum pairs of two integers in a list
 
 
 def pair_sum(list_of_integers, sum_total):
