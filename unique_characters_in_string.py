@@ -1,7 +1,8 @@
 """
 Problem: Given a string s, determine if it comprises of all unique elements
 for example: the string 'abcde' comprises of all unique elements while the string 'aabde'
-doesn't
+doesn't.
+There are two different methods used here
 """
 
 
@@ -21,3 +22,6 @@ def unique_(test_string):
 
 print(unique("abcdea"))
 print(unique_("abcdea"))
+
+print(unique("abcde"))
+print(unique_("abcde"))
