@@ -7,6 +7,7 @@ There are two different methods used here
 
 
 def unique(test_string):
+    
     container = set()
     for i in range(len(test_string)):
         if test_string[i] not in container:
